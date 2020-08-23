@@ -1,3 +1,3 @@
 # Cotton-Disease-Prediction-Deep-Learning
 
-Dataset :https://www.youtube.com/redirect?event=video_description&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue&redir_token=QUFFLUhqbTduM0JLbTZhTXBlSHoyMVZlWUpZaVZfUFdqQXxBQ3Jtc0trRWNScHNVSy1aZDFfcmhZRi05dVh4S0VjSVpGcF83SkxsOTFnWXRFTDRyT2NkN1I0d1BPRUNyU3I2X2xLcGFzaVl4aFJDS1BxbjYwbjRrMTVFNzE4S0pOcmFOQmxGUG91UTM1aWtvYWhPa0hhOTNWQQ%3D%3D&v=-vDwY1kOfNw
+Dataset : https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue
